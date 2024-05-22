@@ -76,6 +76,8 @@ npm start
 
 
 ![App Screenshot](https://i.ibb.co/0Xtk4k1/Whats-App-Image-2024-05-22-at-20-24-16.jpg)
+
+![App Screenshot](https://i.ibb.co/N3F0s9j/Whats-App-Image-2024-05-22-at-20-25-21.jpg)
    
 
 
