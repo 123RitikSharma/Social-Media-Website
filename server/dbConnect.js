@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 module.exports = async() => {
-    const mongoUri = "";//Enter you database URL
+    const mongoUri = "mongodb+srv://admin1:12345@socialmedia.i9gcy0p.mongodb.net/?retryWrites=true&w=majority&appName=SocialMedia";
     try {
         mongoose.set('strictQuery', true);
         const connect = await mongoose.connect(mongoUri, {
